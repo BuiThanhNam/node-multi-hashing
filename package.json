@@ -7,10 +7,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/BuiThanhNam/node-multi-hashing.git"
+        "url": "https://github.com/btngh/node-multi-hashing.git"
     },
     "dependencies": {
-        "bindings": "^1.3.0",
+        "bindings": "*",
         "nan": "^2.6.2"
     },
     "keywords": [
